@@ -3,6 +3,7 @@
 ###############################################################################
 
 *.cs linguist-language=C#
+*.js linguist-language=C#
 assets/vendor/* linguist-vendored
 assets/images/* linguist-vendored=false
 docs/* linguist-documentation
