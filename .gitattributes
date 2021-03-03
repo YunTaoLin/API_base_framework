@@ -1,9 +1,7 @@
-###############################################################################
-# Set default behavior to automatically normalize line endings.
-###############################################################################
 
 *.cs linguist-language=C#
 *.js linguist-language=C#
+*.sln linguist-language=C#
 assets/vendor/* linguist-vendored
 assets/images/* linguist-vendored=false
 docs/* linguist-documentation
